@@ -57,7 +57,7 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [Stephanie's Euler Solutions](https://github.com/Avonyel/javascript-euler-1-2-3)
 * [Gibran Garcia's Euler Solutions](https://github.com/Satimidus/OdinProject/tree/master/ProjectEuler)
 * [Conor Foley's Euler Solutions](https://github.com/conchurofoghlu/Project-Euler)
- 
+* [Michael Alexander's Euler Solutions](https://github.com/betweenparentheses/EulerProblems)
 
 ## Additional Resources
 
